@@ -1,7 +1,6 @@
-database:
-  schemaName: postgres
-  user: postgres
-  pass: postgres
-  host: 192.168.56.3
-  port: 5432
-  sslMode: disable
+schemaName: postgres
+user: postgres
+pass: postgres
+host: 192.168.56.3
+port: 5432
+sslMode: disable
